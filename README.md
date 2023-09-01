@@ -1,4 +1,4 @@
-# GOREST-Automation-Test
+# GOREST-Test
 ---
 This test is based on [Go Rest](https://gorest.co.in/) web using Mocha framework, Chai, and SuperTest library.
 
